@@ -1,0 +1,4 @@
+enum AfinnCode { 
+  english,
+  french 
+}
