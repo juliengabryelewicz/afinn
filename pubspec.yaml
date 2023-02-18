@@ -1,5 +1,5 @@
 name: afinn
-description: A starting point for Dart libraries or applications.
+description: Experimental Dart package for sentiment analysis 
 version: 0.0.1
 homepage: https://github.com/juliengabryelewicz/afinn
 
